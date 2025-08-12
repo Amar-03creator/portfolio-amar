@@ -19,7 +19,7 @@ import ScrollProgress from './Components/Common/ScrollProgress';
 import FloatingActionButton from './Components/Common/FloatingActionButton';
 
 // Data
-import { navLinks } from './data/portfolioData';
+import { navLinks } from './Data/portfolioData.js';
 
 function App() {
   const [activeSection, setActiveSection] = useState('home');
