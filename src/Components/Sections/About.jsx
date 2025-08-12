@@ -1,8 +1,8 @@
 // src/components/sections/About.jsx
 import React from 'react';
-import { Card } from '../ui/Card';
-import Badge from '../ui/Badge';
-import { qualifications } from '../../data/portfolioData';
+import { Card } from '../UI/Card';
+import Badge from '../UI/Badge';
+import { qualifications } from '../../Data/portfolioData';
 
 const About = () => {
   return (

@@ -1,8 +1,8 @@
 // src/components/sections/Contact.jsx
 import React from 'react';
-import { Card } from '../ui/Card';
-import Button from '../ui/Button';
-import { contactInfo } from '../../data/portfolioData';
+import { Card } from '../UI/Card';
+import Button from '../UI/Button';
+import { contactInfo } from '../../Data/portfolioData';
 
 const Contact = () => {
   return (

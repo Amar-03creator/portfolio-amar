@@ -1,9 +1,9 @@
 // src/components/sections/Projects.jsx
 import React from 'react';
-import { Card, CardHeader, CardContent, CardFooter } from '../ui/Card';
-import Button from '../ui/Button';
-import Badge from '../ui/Badge';
-import { projects } from '../../data/portfolioData';
+import { Card, CardHeader, CardContent, CardFooter } from '../UI/Card';
+import Button from '../UI/Button';
+import Badge from '../UI/Badge';
+import { projects } from '../../Data/portfolioData';
 
 const Projects = () => {
   return (

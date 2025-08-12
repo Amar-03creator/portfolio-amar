@@ -1,6 +1,6 @@
 // src/components/layout/Footer.jsx
 import React from 'react';
-import { contactInfo } from '../../data/portfolioData';
+import { contactInfo } from '../../Data/portfolioData';
 
 const Footer = ({ navLinks, handleNavClick }) => {
   const currentYear = new Date().getFullYear();

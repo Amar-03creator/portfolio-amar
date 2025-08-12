@@ -1,7 +1,7 @@
 // src/components/sections/Skills.jsx
 import React from 'react';
-import { Card } from '../ui/Card';
-import { skills } from '../../data/portfolioData';
+import { Card } from '../UI/Card';
+import { skills } from '../../Data/portfolioData';
 
 const Skills = () => {
   return (

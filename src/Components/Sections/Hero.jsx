@@ -1,7 +1,7 @@
 // src/components/sections/Hero.jsx
 import React from 'react';
-import Button from '../ui/Button';
-import Badge from '../ui/Badge';
+import Button from '../UI/Button';
+import Badge from '../UI/Badge';
 
 const Hero = ({ handleNavClick }) => {
   return (

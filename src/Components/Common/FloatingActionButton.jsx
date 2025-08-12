@@ -1,6 +1,6 @@
 // src/components/common/FloatingActionButton.jsx
 import React, { useState, useEffect } from 'react';
-import Button from '../ui/Button';
+import Button from '../UI/Button';
 
 const FloatingActionButton = () => {
   const [isVisible, setIsVisible] = useState(false);
